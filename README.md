@@ -14,9 +14,16 @@ Dataset from Kaggle.It contains <a href="https://www.kaggle.com/datasets/benhamn
 </p>
 <h3>2. Wordle Valid Words </h3>
 Dataset from Kaggle. It contains <a href="https://www.kaggle.com/datasets/bcruise/wordle-valid-words">All valid Wordle guesses and solutions</a>
-<h3>3. Wordle Solurtions </h3>
+<h3>3. Wordle Solutions </h3>
 Scraping solutions of wordle game using selenium from <a href="https://screenrant.com/wordle-answers-updated-word-puzzle-guide/">Updated Solutions</a>
 <p align="center">
   <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2022/01/Wordle-answers-screen-feature.jpg?q=50&fit=crop&w=480&h=300&dpr=1.5 480w"/>
 </p>
-
+# DashBoard
+<p> This interactive dashboard from real datasets using plotly, Dash, html,css and Python</p>
+<p> Dashboard contins three pages</p>
+<h3>1. Analysis</h3>
+<p>This page contains analysis for wordle tweets datasets merged with Wordle Solutions</p>
+<p align="center">
+  <img src="/FatmaAlZhraaMarzouk/Wordle_DataVisualization_ITI/blob/main/DashBoard/Analysis.png?raw=true"/>
+</p>
