@@ -23,7 +23,24 @@ Scraping solutions of wordle game using selenium from <a href="https://screenran
 <p> This interactive dashboard from real datasets using plotly, Dash, html,css and Python</p>
 <p> Dashboard contins three pages</p>
 <h3>1. Analysis</h3>
-<p>This page contains analysis for wordle tweets datasets merged with Wordle Solutions</p>
+<p>This page contains analysis for wordle tweets dataset merged with Wordle Solutions</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Wordle_DataVisualization_ITI/main/DashBoard/Analysis.png"/>
 </p>
+<h3>2. Tweets</h3>
+<p>This page contains Sentiment Analysis of tweets</p>
+<p>How can we use NLP to analyze words used in Wordle tweets ?</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Wordle_DataVisualization_ITI/main/DashBoard/Tweets1.png"/>
+  <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Wordle_DataVisualization_ITI/main/DashBoard/Tweets2.png"/>
+</p>
+<h3>2. Play</h3>
+<p>This page contains before you play Tips and Tricks from Wordle Valid Words to get most frequent letters in every position</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Wordle_DataVisualization_ITI/main/DashBoard/Play.png"/>
+</p>
+# Contact Us
+<a href = "mailto: abdullah.mohammed.29698@gmail.com">Abdullah Mohammed </a>
+<a href = "mailto: fatmamarzouk25@gmail.com">Fatma Marzouk</a>
+
+
