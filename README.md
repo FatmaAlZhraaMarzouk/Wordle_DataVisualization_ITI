@@ -29,7 +29,6 @@ Scraping solutions of wordle game using selenium from <a href="https://screenran
 </p>
 <h3>2. Tweets</h3>
 <p>This page contains Sentiment Analysis of tweets</p>
-<p>How can we use NLP to analyze words used in Wordle tweets ?</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Wordle_DataVisualization_ITI/main/DashBoard/Tweets1.png"/>
   <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Wordle_DataVisualization_ITI/main/DashBoard/Tweets2.png"/>
@@ -40,7 +39,12 @@ Scraping solutions of wordle game using selenium from <a href="https://screenran
   <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Wordle_DataVisualization_ITI/main/DashBoard/Play.png"/>
 </p>
 <h1>Contact Us</h1>
-<a href = "mailto: abdullah.mohammed.29698@gmail.com">Abdullah Mohammed </a>
+<p>
+  <a href = "mailto: abdullah.mohammed.29698@gmail.com">Abdullah Mohammed </a>
+  </p>
+<p>
 <a href = "mailto: fatmamarzouk25@gmail.com">Fatma Marzouk</a>
+  </p>
+
 
 
