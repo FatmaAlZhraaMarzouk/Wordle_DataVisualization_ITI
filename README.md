@@ -5,7 +5,7 @@ This repository conations Datavisualization project using Plotly and Dash using 
 <p align="center">
   <img src="https://goodwordnews.com/wp-content/uploads/2022/02/1644629463_wordle_website_screenshot_new_1641474361623.jpg"/>
 </p>
-# Dataset
+<h2> Dataset</h2>
 <p>Mainly at this project Using 3 Datasets:</p>
 <h3>1. Wordle Tweets </h3>
 Dataset from Kaggle.It contains <a href="https://www.kaggle.com/datasets/benhamner/wordle-tweets">A daily sample of Wordle results tweets </a>
@@ -19,7 +19,7 @@ Scraping solutions of wordle game using selenium from <a href="https://screenran
 <p align="center">
   <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2022/01/Wordle-answers-screen-feature.jpg?q=50&fit=crop&w=480&h=300&dpr=1.5 480w"/>
 </p>
-# DashBoard
+<h2> DashBoard</h2>
 <p> This interactive dashboard from real datasets using plotly, Dash, html,css and Python</p>
 <p> Dashboard contins three pages</p>
 <h3>1. Analysis</h3>
@@ -39,7 +39,7 @@ Scraping solutions of wordle game using selenium from <a href="https://screenran
 <p align="center">
   <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Wordle_DataVisualization_ITI/main/DashBoard/Play.png"/>
 </p>
-# Contact Us
+<h2>Contact Us</h2>
 <a href = "mailto: abdullah.mohammed.29698@gmail.com">Abdullah Mohammed </a>
 <a href = "mailto: fatmamarzouk25@gmail.com">Fatma Marzouk</a>
 
