@@ -6,7 +6,7 @@ This repository conations Datavisualization project using Plotly and Dash using 
   <img src="https://goodwordnews.com/wp-content/uploads/2022/02/1644629463_wordle_website_screenshot_new_1641474361623.jpg"/>
 </p>
 # Dataset
-Mainly at this project Using 3 Datasets:
+<p>Mainly at this project Using 3 Datasets:</p>
 <h3>1. Wordle Tweets </h3>
 Dataset from Kaggle.It contains <a href="https://www.kaggle.com/datasets/benhamner/wordle-tweets">A daily sample of Wordle results tweets </a>
 <p align="center">
