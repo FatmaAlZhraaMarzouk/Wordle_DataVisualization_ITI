@@ -25,5 +25,5 @@ Scraping solutions of wordle game using selenium from <a href="https://screenran
 <h3>1. Analysis</h3>
 <p>This page contains analysis for wordle tweets datasets merged with Wordle Solutions</p>
 <p align="center">
-  ![A test image](/FatmaAlZhraaMarzouk/Wordle_DataVisualization_ITI/blob/main/DashBoard/Analysis.png)
+  <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/Wordle_DataVisualization_ITI/main/DashBoard/Analysis.png"/>
 </p>
