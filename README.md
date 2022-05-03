@@ -23,7 +23,7 @@ Scraping solutions of wordle game using selenium from <a href="https://screenran
 <p> This interactive dashboard from real datasets using plotly, Dash, html,css and Python</p>
 <p> Dashboard contins three pages</p>
 <h3>1. Analysis</h3>
-<p>This page contains analysis for wordle tweets datasets merged with Wordle Solutions</p>
+<p>This page contains analysis for wordle tweets dataset merged with Wordle Solutions</p>
 <p align="center">
-  <img src="/FatmaAlZhraaMarzouk/Wordle_DataVisualization_ITI/blob/main/DashBoard/Analysis.png?raw=true"/>
+  <img src="/FatmaAlZhraaMarzouk/Wordle_DataVisualization_ITI/blob/main/DashBoard/Analysis.png"/>
 </p>
